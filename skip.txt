@@ -13,20 +13,20 @@ Buildings:
 *Extra Buildings*
 Except:Forestry 4x3 Extractor03*
 Except:Forestry 4x3 Processing03
-Except:Ore 4x3 Processing03***************
-Except:Oil 3x2 Extractor02**************
-Except:Forestry L1 4x3 Straight*************
-Except:Forestry L2 4x3 Straight************
-Except:IndustrialOre L1 4x3 Straight***********
-Except:IndustrialOil L2 3x2 Straight**********
-Except:IndustrialGeneric L1 4x3 Straight*********
-Except:IndustrialGeneric L3 4x4 Straight********
-Except:IndustrialGeneric L2 4x4 Straight*******
-Except:IndustrialOil L1 4x2 Straight******
-Except:IndustrialFarming L1 4x3 Straight*****
-Except:Industrial IndustrialFarming L1 4x4 Straight****
-Except:Industrial IndustrialGeneric L1 4x3 Straight***
-Except:IndustrialGeneric L3 4x4 Straight**
+Except:Ore 4x3 Processing03*
+Except:Oil 3x2 Extractor02*
+Except:Forestry L1 4x3 Straight*
+Except:Forestry L2 4x3 Straight*
+Except:IndustrialOre L1 4x3 Straight*
+Except:IndustrialOil L2 3x2 Straight*
+Except:IndustrialGeneric L1 4x3 Straight*
+Except:IndustrialGeneric L3 4x4 Straight*
+Except:IndustrialGeneric L2 4x4 Straight*
+Except:IndustrialOil L1 4x2 Straight*
+Except:IndustrialFarming L1 4x3 Straight*
+Except:Industrial IndustrialFarming L1 4x4 Straight*
+Except:Industrial IndustrialGeneric L1 4x3 Straight*
+Except:IndustrialGeneric L3 4x4 Straight*
 Except:Industrial IndustrialGeneric L3 4x4 Straight*
 *Monument*
 Except:Observatory*
