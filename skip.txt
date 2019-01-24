@@ -1,0 +1,131 @@
+
+
+Buildings:
+*Residential Low*
+*Residential High*
+*Commercial High*
+*Commercial Low*
+*Industrial*
+*Mars*
+*Office*
+*Education*
+*Login Pack*
+*Extra Buildings*
+Except:Forestry 4x3 Extractor03*
+Except:Forestry 4x3 Processing03
+Except:Ore 4x3 Processing03
+Except:Oil 3x2 Extractor02
+Except:Forestry L1 4x3 Straight
+Except:Forestry L2 4x3 Straight
+Except:IndustrialOre L1 4x3 Straight
+Except:IndustrialOil L2 3x2 Straight
+Except:IndustrialGeneric L1 4x3 Straight
+Except:IndustrialGeneric L3 4x4 Straight
+Except:IndustrialGeneric L2 4x4 Straight
+Except:IndustrialOil L1 4x2 Straight
+Except:IndustrialFarming L1 4x3 Straight
+Except:Industrial IndustrialFarming L1 4x4 Straight
+Except:Industrial IndustrialGeneric L1 4x3 Straight
+Except:IndustrialGeneric L3 4x4 Straight
+Except:Industrial IndustrialGeneric L3 4x4 Straight
+*Monument*
+Except:Observatory*
+Except:Seaworld*
+Except:Stadium*
+
+Billboards:
+Billboard_big_bigbite*
+Billboard_big_bigbite_01*
+Billboard_big_bigbite_02*
+Billboard_big_bigbite_03*
+billboard_big_Fallout*
+billboard_big_Fallout_01*
+billboard_big_Fallout_02*
+billboard_big_Fallout_03*
+billboard_big_Furniture*
+billboard_big_Furniture_01*
+billboard_big_Furniture_02*
+billboard_big_Furniture_03*
+Billboard_big_go_nuts*
+Billboard_big_go_nuts_01*
+Billboard_big_go_nuts_02*
+Billboard_big_go_nuts_03*
+Billboard_big_jubilee*
+Billboard_big_jubilee_01*
+Billboard_big_jubilee_02*
+Billboard_big_jubilee_03*
+Billboard_big_popsoda*
+Billboard_big_popsoda_01*
+Billboard_big_popsoda_02*
+Billboard_big_popsoda_03*
+billboard_big_realestate*
+billboard_big_realestate_01*
+billboard_big_realestate_02*
+billboard_big_realestate_03*
+billboard_big_Sparkly*
+billboard_big_Sparkly_01*
+billboard_big_Sparkly_02*
+billboard_big_Sparkly_03*
+Billboard_big_variation*
+Billboard_big_variation_01*
+Billboard_big_variation_02*
+Billboard_big_variation_03*
+Billboard_big_variation_04*
+Billboard_big_yakisoba*
+Billboard_big_yakisoba_01*
+Billboard_big_yakisoba_02*
+Billboard_big_yakisoba_03*
+Billboard_big_yaxu*
+Billboard_big_yaxu_01*
+Billboard_big_yaxu_02*
+Billboard_big_yaxu_03*
+Billboard_lehto_anim*
+Billboard_medium_flat_bigbite_01*
+Billboard_medium_flat_bigbite_02*
+Billboard_medium_flat_go_nuts_01*
+Billboard_medium_flat_go_nuts_02*
+Billboard_medium_flat_variation_01*
+Billboard_pop_soda_anim*
+Billboard_small_go_nuts_02*
+Billboard_small_lehto_02*
+Billboard_small_meaty_02*
+neon-burned-bean-coffee*
+neon-flaming-ring*
+neon-yakisoba-noodles*
+Billboard_3D_variation*
+Rotating_squirrel*
+Rotating_morelloscone*
+Clown*
+Octopus*
+Nightwatch_billboard_big_anim*
+Logo_flaming_ring*
+Logo_neckbeard*
+logo_meatybits*
+Logo_pernu*
+Logo_burned_bean*
+Except:None:*Marker*
+
+Levels:
+Relaxation Station Radio Channel.
+RadioStation1
+
+Rock City Radio Channel.
+RadioStation2
+
+All That Jazz Radio Channel.
+RadioStation3
+
+Country Road Radio Channel.
+RadioStation4
+
+Synthetic Dawn Radio Channel.
+RadioStation5
+
+Carols, Candles and Candy Radio Channel.
+Christmas
+
+
+
+
+
+
